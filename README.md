@@ -7,6 +7,9 @@
 <h1></h1>
 
  # Tecnologias e Ferramentas
+ 
+<br/>
+<br/>
 
 <div style="display: inline_block">
 <img align="align" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -33,6 +36,7 @@
 <br/>
 <br/>
 <br/>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
