@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=2000&pause=1000&center=true&vCenter=true&width=1000&height=100&lines=Seja+Bem-Vindo!+;Full+Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1000&center=true&vCenter=true&width=1000&lines=Seja+Bem-Vindo!;Full+Stack+Developer;Sistemas+para+Internet)](https://git.io/typing-svg)
 
 ![Fabio GitHub stats](https://github-readme-stats.vercel.app/api?username=araujofa&show_icons=true&theme=transparent)
 
