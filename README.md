@@ -1,6 +1,6 @@
 # 🌐 Hello, World!
 
-👨🏻‍💻 Me chamo Fabio Araujo e sou um profissional de tecnologia apaixonado pelo desenvolvimento de sistemas e redes de computadores. Com formação técnica em Desenvolvimento de Sistemas, prestes a concluir o curso técnico em Redes de Computadores e cursando Graduação em Sistemas para Internet.
+👨🏻‍💻 Me chamo Fabio Araujo e sou um profissional de tecnologia apaixonado pelo desenvolvimento de sistemas e redes de computadores. Com formação técnica em Desenvolvimento de Sistemas, prestes a concluir o curso técnico em Redes de Computadores.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabio-araujo-silva-084758190/)
 
